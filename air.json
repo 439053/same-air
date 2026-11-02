@@ -1,22 +1,22 @@
 {
-  "updated": "2026-11-01T23:39:41.670Z",
+  "updated": "2026-11-02T01:09:50.520Z",
   "pm25": {
-    "north": 32,
-    "south": 26,
-    "east": 24,
-    "west": 45,
-    "central": 32
+    "north": 36,
+    "south": 30,
+    "east": 26,
+    "west": 36,
+    "central": 34
   },
-  "pm25Time": "2026-11-02T07:30:38+08:00",
+  "pm25Time": "2026-11-02T09:00:39+08:00",
   "psi24": {
     "north": 71,
-    "south": 69,
+    "south": 68,
     "east": 64,
-    "west": 85,
+    "west": 84,
     "central": 70
   },
   "wind": {
-    "dir": 76,
-    "speed": 1.7
+    "dir": 71,
+    "speed": 2.3
   }
 }
